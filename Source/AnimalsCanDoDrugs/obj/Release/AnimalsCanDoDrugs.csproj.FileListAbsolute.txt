@@ -1,0 +1,7 @@
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/bin/Release/AnimalsCanDoDrugs.dll
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.csproj.CoreCompileInputs.cache
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Assemblies/AnimalsCanDoDrugs.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.csprojAssemblyReference.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.dll
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.csproj.CoreCompileInputs.cache

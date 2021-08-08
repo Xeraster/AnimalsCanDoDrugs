@@ -1,0 +1,6 @@
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/bin/Debug/AnimalsCanDoDrugs.dll
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/bin/Debug/AnimalsCanDoDrugs.pdb
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Debug/AnimalsCanDoDrugs.csproj.CoreCompileInputs.cache
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Debug/AnimalsCanDoDrugs.dll
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Debug/AnimalsCanDoDrugs.pdb
+/home/scott/Projects/AnimalsCanDoDrugs/AnimalsCanDoDrugs/obj/Debug/AnimalsCanDoDrugs.csprojAssemblyReference.cache

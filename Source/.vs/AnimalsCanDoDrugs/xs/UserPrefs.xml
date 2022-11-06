@@ -1,17 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workbench ActiveDocument="AnimalsCanDoDrugs/Properties/MainLoader.cs">
     <Files>
-      <File FileName="AnimalsCanDoDrugs/Properties/MainLoader.cs" Line="328" Column="1" />
+      <File FileName="AnimalsCanDoDrugs/Properties/MainLoader.cs" Line="53" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="AnimalsCanDoDrugs" expanded="True">
-            <Node name="AnimalsCanDoDrugs" expanded="True">
+            <Node name="AnimalsCanDoDrugs" expanded="True" selected="True">
               <Node name="References" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="MainLoader.cs" selected="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>

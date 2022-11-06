@@ -5,3 +5,4 @@
 /home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.csprojAssemblyReference.cache
 /home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.dll
 /home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/Source/AnimalsCanDoDrugs/obj/Release/AnimalsCanDoDrugs.csproj.CoreCompileInputs.cache
+/home/scott/.local/share/Steam/steamapps/common/RimWorld/Mods/AnimalsCanDoDrugs/1.4/Assemblies/AnimalsCanDoDrugs.dll
